@@ -24,18 +24,6 @@ Responsive behavior (future enhancement)
 
 The automation tests are designed to be scalable, modular, and follow the Page Object Model (POM) structure.
 
-🧰 **Tech Stack**
-
-| Component           | Technology                      |
-| ------------------- | ------------------------------- |
-| **Language**        | Python 3.x                      |
-| **Automation Tool** | Selenium WebDriver              |
-| **Test Runner**     | PyTest                          |
-| **Design Pattern**  | Page Object Model (POM)         |
-| **Driver Manager**  | webdriver-manager               |
-| **Report**          | PyTest HTML Report              |
-| **Browser**         | Chrome (Incognito Mode Enabled) |
-
 
 📁 **Project Structure**
 
