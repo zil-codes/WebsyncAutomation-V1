@@ -25,39 +25,6 @@ Responsive behavior (future enhancement)
 The automation tests are designed to be scalable, modular, and follow the Page Object Model (POM) structure.
 
 
-📁 **Project Structure**
-
-WebSyncAutomation/
-│
-├── tests/
-│   ├── test_homepage.py
-│   ├── test_navigation.py
-│   ├── test_services_page.py
-│   ├── test_products_page.py
-│   ├── test_process_page.py
-│   └── test_contact_page.py
-│
-├── pages/
-│   ├── base_page.py
-│   ├── homepage.py
-│   ├── navigation.py
-│   ├── services_page.py
-│   ├── products_page.py
-│   ├── process_page.py
-│   └── contact_page.py
-│
-├── utilities/
-│   ├── driver_setup.py
-│   ├── logger.py
-│   └── helpers.py
-│
-├── reports/
-│   ├── pytest-html-report.html
-│
-├── README.md
-├── requirements.txt
-└── conftest.py
-
 🌐 **Test Coverage**
 
 ✔ **Homepage Tests**
